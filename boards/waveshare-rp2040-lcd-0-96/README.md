@@ -5,7 +5,7 @@ an [Waveshare RP2040 LCD 0.96] - a very small RP2040 breakout board with USB-C,
 a 65K IPS LCD 160x80, 16MBit Flash and 1A battery charger from Waveshare.
 
 This crate includes the [rp2040-hal], but also configures each pin of the
-RP2040 chip according to how it is connected up on the Feather.
+RP2040 chip according to how it is connected up.
 
 [Waveshare RP2040 LCD 0.96]: https://www.waveshare.com/wiki/RP2040-LCD-0.96
 [waveshare-rp2040-lcd-0-96]: https://github.com/rp-rs/rp-hal-boards/tree/main/boards/waveshare-rp2040-lcd-0-96
